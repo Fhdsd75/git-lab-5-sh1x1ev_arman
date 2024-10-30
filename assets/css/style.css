@@ -8,3 +8,9 @@
     margin: 0;
     box-sizing: inherit;
 }
+
+.header {
+    font-family: "Sixtyfour Convergence", sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
